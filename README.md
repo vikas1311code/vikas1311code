@@ -2,7 +2,7 @@
 
 # Vikas Pandey
 
-**Full Stack Developer** · B.Tech CSE @ IIIT Manipur
+**Software Developer** · B.Tech CSE @ IIIT Manipur
 
 I build and ship full-stack products end-to-end — web, mobile, and AI-integrated tools. Currently freelancing, interning, and shipping side projects that real people use.
 
