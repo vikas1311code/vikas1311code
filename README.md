@@ -10,6 +10,7 @@ I build things end-to-end — from idea to deployment. Currently juggling freela
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**DevFlow**](https://github.com/vikas1311code/DevFlow) · [Live Demo](https://dev-flow-red-rho.vercel.app) | AI-powered GitHub PR reviewer — reads every diff, posts structured AI reviews (verdict, severity-tagged issues, suggestions) via webhooks, plus a sprint board & analytics dashboard | Next.js, Express, PostgreSQL, Gemini API, GitHub Webhooks |
 | [Halwai Setu](https://github.com/vikas1311code/halwai-setu) | Full-stack mobile booking platform for caterers — 50+ beta users, OTP auth, in-app chat, real-time tracking | React Native, Expo, REST API |
 | [ZERO](https://github.com/vikas1311code/-zero-plagiarism-checker) | Desktop plagiarism detection tool — 90%+ accuracy, 100+ downloads, PDF/DOCX support | Electron.js, NLP, SQLite |
 | [TaskFlow](https://github.com/vikas1311code/taskflow) | Production-grade REST API with JWT auth, RBAC, Docker, CI/CD, and Swagger docs | Node.js, Express, PostgreSQL, React |
@@ -23,7 +24,8 @@ I build things end-to-end — from idea to deployment. Currently juggling freela
 **Frontend:** React · Next.js · React Native · Expo · Tailwind CSS · Framer Motion  
 **Backend:** Node.js · Express.js · Electron.js  
 **Databases:** PostgreSQL · MongoDB · SQLite · Firebase · Supabase  
-**DevOps:** Docker · CI/CD · GitHub Actions · Vercel  
+**AI/Integrations:** Gemini API · GitHub REST API & Webhooks · OAuth  
+**DevOps:** Docker · CI/CD · GitHub Actions · Render · Vercel  
 **Tools:** Git · Swagger/OpenAPI · Android Studio · VS Code  
 
 ---
