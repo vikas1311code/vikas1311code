@@ -14,7 +14,7 @@ I build and ship full-stack products end-to-end — web, mobile, and AI-integrat
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
 ### [DevFlow](https://github.com/vikas1311code/DevFlow) — AI-Powered PR Review Platform
 
